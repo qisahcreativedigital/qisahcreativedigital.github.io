@@ -19,9 +19,9 @@ Expected public URL:
 - `privacy.html`
 - `terms.html`
 - `support.html`
-- `styles.css`
-- `script.js`
-- `assets/qisah-logo.png` — transparent repaired QISAH logo
+- `styles-v4.css`
+- `script-v4.js`
+- `assets/qisah-logo-v4.png` — transparent repaired QISAH logo
 
 ## Upload to GitHub
 
@@ -45,3 +45,6 @@ Expected public URL:
 ## Contact email
 
 `qisahcreative@gmail.com`
+
+
+Version: FINAL v4 — cache-busted assets and English-only hero callout.
